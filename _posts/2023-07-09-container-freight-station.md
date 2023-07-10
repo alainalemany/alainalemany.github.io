@@ -19,3 +19,12 @@ There are two types of CFS: **Origin** and **Destination**.
 1. **Origin CFS** – A container freight station in the country from where the goods originate. This is where freight is consolidated before the goods are shipped to the destination station.
 
 2. **Destination CFS** – A container freight station in the destination country where freight is de-consolidated before each individual shipment is sent to the rightful client.
+
+## The Benefits of Using a CFS Warehouse
+1. They are excellent for time-sensitive air freight shipments as they facilitate the fast direct movement of such shipments from the airport and delivery to different destinations in a few hours to a few days.
+
+2. They increase the efficiency of the supply chain particularly for businesses that involve regular export and import of goods that need short term storage before being de-consolidated, repackaged and prepared to be delivered to the final consignee.
+
+3. CFS warehouses are excellent for businesses that need dedicated consolidation services since they do not have the volumes for Full Container Loads (FCL). This results in cost savings for the business.
+
+4. They provide an additional layer of security reducing the risk of theft or damage as goods are transported directly from the port or airport to the secure container freight station warehouse.
