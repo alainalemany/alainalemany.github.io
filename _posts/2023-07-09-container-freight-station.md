@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2023-07-09 21:59:19 -0400'
 categories:
