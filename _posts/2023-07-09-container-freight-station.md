@@ -28,3 +28,18 @@ There are two types of CFS: **Origin** and **Destination**.
 3. CFS warehouses are excellent for businesses that need dedicated consolidation services since they do not have the volumes for Full Container Loads (FCL). This results in cost savings for the business.
 
 4. They provide an additional layer of security reducing the risk of theft or damage as goods are transported directly from the port or airport to the secure container freight station warehouse.
+
+## The Responsibility of the Container Freight Station
+The container freight station has to ensure that the goods are secure and safe until they are either shipped or picked up. In addition to ensuring the safety of the goods, they need to ensure that the goods are sorted properly and are ready for the next stage.
+
+At any time, the CFS may have shipments that are about to be exported, some that are awaiting pickup by the consignee and others that just arrived. As such, logistics and administration are some of the most important functions of the CFS.
+
+Receiving services provided by the Container Freight Station Include:
+- Preparing containers internal loading plan
+- Moving empty containers from a container yard to a CFS
+- Stacking and sorting containers after or before shipment
+- Tallying
+- Container storage
+- Issuing shipping order and dock receipts
+- Stuffing, marking, and sealing of containers for identification and labelling
+- Physically moving cargo out or into the CFS
