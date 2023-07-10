@@ -5,7 +5,8 @@ date: '2023-07-09 22:12:19 -0400'
 categories:
   - CBP
 tags:
-  - 'cfs, bonded'
+  - - cfs
+    - bonded
 ---
 A **Bonded CFS Warehouse** is a bonded facility that is used as transitory storage for imported and exported goods. Bonded means that the CFS has the authority from the [Customs & Border Protection Agency](https://alemany.me/posts/my-new-post/) to receive shipments that are under a customs bond.
 
